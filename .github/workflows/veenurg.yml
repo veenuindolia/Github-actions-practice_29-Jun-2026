@@ -1,7 +1,7 @@
 name: Create Resource Group
 
 on:
-  push:
+  pull_request:
     branches:
     - main
 
